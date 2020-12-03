@@ -3,7 +3,7 @@
 
 #### This was a team project and was a part of [Analysis and Design of Machine Components](https://mech.nitk.ac.in/course/analysis-and-design-machine-components) course.
 
-Such vehicles do exist in the form of tanks.
+Such vehicles do exist in the form of tanks!
 ![Tank](static/tank.jpg)
 
 
